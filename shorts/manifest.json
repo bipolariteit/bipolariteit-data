@@ -1,6 +1,7 @@
 [
   {
     "debatdirect_id": "2640cbf9-1778-4fe1-8126-7e1dcc4c3ece",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-05-22/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-05-22T15%3A42%3A25%2B0200&end=2025-05-22T22%3A33%3A59%2B0200",
     "topic_slug": "stikstof",
     "topic_name": "Stikstof",
     "spreker": "Caroline van der Plas",
@@ -20,6 +21,7 @@
   },
   {
     "debatdirect_id": "a6f5bbe3-258a-486d-ae0e-d19a6c4709f7",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-06-18/troelstrazaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-06-18T16%3A16%3A42%2B0200&end=2025-06-18T21%3A49%3A42%2B0200",
     "topic_slug": "stikstof",
     "topic_name": "Stikstof",
     "spreker": "Caroline van der Plas",
@@ -39,6 +41,7 @@
   },
   {
     "debatdirect_id": "a01cc1a5-b4ee-4aa5-b142-fe882c3f5bbf",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2024-11-07/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2024-11-07T10%3A17%3A48%2B0100&end=2024-11-07T13%3A00%3A56%2B0100",
     "topic_slug": "asiel",
     "topic_name": "Asiel en migratie",
     "spreker": "Michiel van Nispen",
@@ -58,6 +61,7 @@
   },
   {
     "debatdirect_id": "98dc4315-6f18-4aee-8539-2a12af816fd5",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-02-20/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-02-20T16%3A04%3A53%2B0100&end=2025-02-20T23%3A20%3A06%2B0100",
     "topic_slug": "stikstof",
     "topic_name": "Stikstof",
     "spreker": "Eline Vedder",
@@ -73,5 +77,81 @@
     "clip_start_seconds": 19323.4,
     "clip_duration_seconds": 18.0,
     "bestand": "98dc4315-6f18-4aee-8539-2a12af816fd5.mp4"
+  },
+  {
+    "debatdirect_id": "1e5a922e-8e11-493a-9a86-f9040b0f1de1",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-09-08/troelstrazaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-09-08T10%3A00%3A04%2B0200&end=2025-09-08T13%3A47%3A37%2B0200",
+    "topic_slug": "abortus",
+    "topic_name": "Abortus",
+    "spreker": "Jan Paternotte",
+    "partij": "D66",
+    "citaat": "Alleen zien we nu al een paar jaar dat wat de ChristenUnie in Nederland graag zou willen, namelijk een verbod op abortus, in de praktijk wordt gebracht in bijvoorbeeld Amerika. Ik vind dat eerlijk gezegd niet opstaan voor kwetsbare vrouwen. We zien daar namelijk dat vrouwen steeds vaker omkomen omdat artsen geen operaties durven uit te voeren, geen afbreking van de zwangerschap willen doen omdat het verboden is, terwijl er een leven in gevaar is. We zien een toename van babysterfte en de kraamzorg die in heel veel gebieden in Amerika is ingestort. We zien vrouwen die soms honderden kilometers moeten reizen als ze in een noodsituatie toch een afbreking zoeken. Ik vind dat niet opstaan voor kwetsbare vrouwen.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Conflict",
+      "Frame-Menselijk-Belang"
+    ],
+    "score": 9,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2024A08828",
+    "clip_start_seconds": 274.74,
+    "clip_duration_seconds": 18.0,
+    "bestand": "1e5a922e-8e11-493a-9a86-f9040b0f1de1.mp4"
+  },
+  {
+    "debatdirect_id": "d684d775-3151-41e9-8cda-7d13944a42fa",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2024-11-05/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2024-11-05T16%3A40%3A18%2B0100&end=2024-11-05T21%3A14%3A32%2B0100",
+    "topic_slug": "asiel",
+    "topic_name": "Asiel en migratie",
+    "spreker": "Stephan van Baarle",
+    "partij": "DENK",
+    "citaat": "In de asieldeal kunnen we lezen dat het landenbeleid voor Syrië aanzienlijk wordt aangescherpt. Dat is de eerste zin. Ik was ook bij die demonstratie van Syrische Nederlanders. Daar heb ik gezien dat mensen zich zorgen maken over hun veiligheid, over hun voortbestaan, over wat de toekomst hun gaat brengen. Ik vraag mij af of mevrouw Rajkowski beseft wat de politieke afspraak die zij met de VVD en met deze coalitie in die brief heeft gemaakt, zonder enige vorm van onderbouwing, doet met die mensen, die nu in angst en onzekerheid zijn gestort.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
+    ],
+    "score": 9,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2024A07626",
+    "clip_start_seconds": 4886.5,
+    "clip_duration_seconds": 18.0,
+    "bestand": "d684d775-3151-41e9-8cda-7d13944a42fa.mp4"
+  },
+  {
+    "debatdirect_id": "c8eb4c12-bc49-4443-ac86-0f9a82691373",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-12-09/groenvanprinstererzaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-12-09T16%3A32%3A35%2B0100&end=2025-12-09T19%3A52%3A54%2B0100",
+    "topic_slug": "asiel",
+    "topic_name": "Asiel en migratie",
+    "spreker": "Lisa Westerveld",
+    "partij": "GroenLinks-PvdA",
+    "citaat": "Lhbti-organisaties uiten daarnaast ook grote zorgen. In sommige gevallen leidt de wanhoop bij lhbti-vluchtelingen zelfs tot suïcide.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
+    ],
+    "score": 9,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A07195",
+    "clip_start_seconds": 1148.96,
+    "clip_duration_seconds": 10.4,
+    "bestand": "c8eb4c12-bc49-4443-ac86-0f9a82691373.mp4"
+  },
+  {
+    "debatdirect_id": "aa84704e-1ffe-454f-a6d0-0b12a8a11032",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-06-26/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-06-26T10%3A20%3A01%2B0200&end=2025-06-26T13%3A03%3A09%2B0200",
+    "topic_slug": "asiel",
+    "topic_name": "Asiel en migratie",
+    "spreker": "Laurens Dassen",
+    "partij": "Volt",
+    "citaat": "Als ik dit voorstel hoor, denk ik ook aan al die kinderen die straks na een jaar in onzekerheid zullen zitten over de vraag of ze mogen blijven. Vervolgens zitten ze dan na twee jaar weer in die onzekerheid over de vraag of ze mogen blijven. Wat denkt mevrouw Rajkowski dat dit doet met de ontwikkeling van een kind?",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
+    ],
+    "score": 9,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2025A04975",
+    "clip_start_seconds": 1487.18,
+    "clip_duration_seconds": 17.34,
+    "bestand": "aa84704e-1ffe-454f-a6d0-0b12a8a11032.mp4"
   }
 ]
