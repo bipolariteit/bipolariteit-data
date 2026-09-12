@@ -2,6 +2,7 @@
   {
     "debatdirect_id": "2640cbf9-1778-4fe1-8126-7e1dcc4c3ece",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-05-22/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-05-22T15%3A42%3A25%2B0200&end=2025-05-22T22%3A33%3A59%2B0200",
+    "published_at": "2025-05-22T18:10:05",
     "topic_slug": "stikstof",
     "topic_name": "Stikstof",
     "spreker": "Caroline van der Plas",
@@ -22,6 +23,7 @@
   {
     "debatdirect_id": "a6f5bbe3-258a-486d-ae0e-d19a6c4709f7",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-06-18/troelstrazaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-06-18T16%3A16%3A42%2B0200&end=2025-06-18T21%3A49%3A42%2B0200",
+    "published_at": "2025-06-18T16:55:43",
     "topic_slug": "stikstof",
     "topic_name": "Stikstof",
     "spreker": "Caroline van der Plas",
@@ -42,6 +44,7 @@
   {
     "debatdirect_id": "a01cc1a5-b4ee-4aa5-b142-fe882c3f5bbf",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2024-11-07/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2024-11-07T10%3A17%3A48%2B0100&end=2024-11-07T13%3A00%3A56%2B0100",
+    "published_at": "2024-11-07T10:34:36",
     "topic_slug": "asiel",
     "topic_name": "Asiel en migratie",
     "spreker": "Michiel van Nispen",
@@ -62,6 +65,7 @@
   {
     "debatdirect_id": "98dc4315-6f18-4aee-8539-2a12af816fd5",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-02-20/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-02-20T16%3A04%3A53%2B0100&end=2025-02-20T23%3A20%3A06%2B0100",
+    "published_at": "2025-02-20T21:26:54",
     "topic_slug": "stikstof",
     "topic_name": "Stikstof",
     "spreker": "Eline Vedder",
@@ -81,6 +85,7 @@
   {
     "debatdirect_id": "1e5a922e-8e11-493a-9a86-f9040b0f1de1",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-09-08/troelstrazaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-09-08T10%3A00%3A04%2B0200&end=2025-09-08T13%3A47%3A37%2B0200",
+    "published_at": "2025-09-08T10:04:33",
     "topic_slug": "abortus",
     "topic_name": "Abortus",
     "spreker": "Jan Paternotte",
@@ -100,6 +105,7 @@
   {
     "debatdirect_id": "d684d775-3151-41e9-8cda-7d13944a42fa",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2024-11-05/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2024-11-05T16%3A40%3A18%2B0100&end=2024-11-05T21%3A14%3A32%2B0100",
+    "published_at": "2024-11-05T18:01:46",
     "topic_slug": "asiel",
     "topic_name": "Asiel en migratie",
     "spreker": "Stephan van Baarle",
@@ -119,6 +125,7 @@
   {
     "debatdirect_id": "c8eb4c12-bc49-4443-ac86-0f9a82691373",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-12-09/groenvanprinstererzaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-12-09T16%3A32%3A35%2B0100&end=2025-12-09T19%3A52%3A54%2B0100",
+    "published_at": "2025-12-09T16:50:50",
     "topic_slug": "asiel",
     "topic_name": "Asiel en migratie",
     "spreker": "Lisa Westerveld",
@@ -138,6 +145,7 @@
   {
     "debatdirect_id": "aa84704e-1ffe-454f-a6d0-0b12a8a11032",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2025-06-26/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2025-06-26T10%3A20%3A01%2B0200&end=2025-06-26T13%3A03%3A09%2B0200",
+    "published_at": "2025-06-26T10:44:37",
     "topic_slug": "asiel",
     "topic_name": "Asiel en migratie",
     "spreker": "Laurens Dassen",
