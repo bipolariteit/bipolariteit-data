@@ -1,161 +1,211 @@
 [
   {
-    "debatdirect_id": "0bddab7f-3c22-41b0-abae-bb13923aa48a",
-    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-04-09/thorbeckezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-04-09T14%3A36%3A25%2B0200&end=2026-04-09T18%3A56%3A49%2B0200",
-    "published_at": "2026-04-09T15:19:48",
-    "topic_slug": "energietransitie",
-    "topic_name": "Energietransitie",
-    "spreker": "Alexander Kops",
-    "partij": "PVV",
-    "citaat": "Het klopt dat we als land in totaliteit minder gas zijn gaan gebruiken. Dat is het geval sinds de energiecrisis van 2022. Dat komt voornamelijk doordat mensen in energiearmoede zitten. Ze durfden van ellende de kachel niet meer aan te zetten. Het was allemaal te duur. Ze konden het niet meer betalen. Daarom is het gasverbruik relatief dus omlaag gegaan.",
-    "tags": [
-      "Debatzet-Gevoelens-Verwoorden",
-      "Frame-Menselijk-Belang"
-    ],
-    "score": 8,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05890",
-    "clip_start_seconds": 2604.02,
-    "clip_duration_seconds": 18.0,
-    "bestand": "0bddab7f-3c22-41b0-abae-bb13923aa48a.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-09/klimaat/thorbeckezaal/betaalbare-energierekening-voor-huishoudens-14-30/video"
-  },
-  {
-    "debatdirect_id": "c5de4522-1269-456c-aaaf-49f40bc56c06",
-    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-04-22/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-04-22T14%3A11%3A40%2B0200&end=2026-04-22T20%3A42%3A25%2B0200",
-    "published_at": "2026-04-22T15:55:40",
-    "topic_slug": "energietransitie",
-    "topic_name": "Energietransitie",
-    "spreker": "Geert Wilders",
-    "partij": "PVV",
-    "citaat": "Maar heel veel mensen thuis kunnen dat niet. Die hebben een gezin met vier kinderen, misschien zelfs met een modaal inkomen, maar die trekken dat niet en krijgen misschien geen profijt van die 200 miljoen aan geld dat u besteed aan die reiskostenvergoeding. Die kunnen dat niet, want die hebben dure boodschappen, die hebben een hoge huur en die gaan dadelijk de elektriciteitsrekening niet kunnen betalen. Die vallen dus niet onder die doelgroep waarvoor u dat fonds heeft. Denk nou dus gewoon eens aan de mensen thuis.",
-    "tags": [
-      "Debatzet-Gevoelens-Verwoorden",
-      "Frame-Menselijk-Belang"
-    ],
-    "score": 8,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02996",
-    "clip_start_seconds": 6250.92,
-    "clip_duration_seconds": 18.0,
-    "bestand": "c5de4522-1269-456c-aaaf-49f40bc56c06.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-22/economie/plenaire-zaal/maatregelen-van-het-kabinet-inzake-de-hoge-energie-en-brandstofprijzen-13-35/video"
-  },
-  {
-    "debatdirect_id": "078d46e4-41ef-4d9a-839d-c5344fd7b384",
-    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-02-10/thorbeckezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-02-10T18%3A01%3A39%2B0100&end=2026-02-10T21%3A20%3A31%2B0100",
-    "published_at": "2026-02-10T18:02:49",
-    "topic_slug": "abortus",
-    "topic_name": "Abortus",
-    "spreker": "Lisa Vliegenthart",
-    "partij": "GroenLinks-PvdA",
-    "citaat": "Tijdens mijn werk hoorde ik de meest schrijnende verhalen, bijvoorbeeld van een dakloze vrouw die uit wanhoop een suïcidepoging deed, omdat zij geen toegang kreeg tot de abortus die zij verdiende en nodig had. Maar ik hoorde ook verhalen van vrouwen die uit pure nood abortusmedicatie op de zwarte markt kochten, met alle medische risico's van dien.",
-    "tags": [
-      "Debatzet-Gevoelens-Verwoorden",
-      "Frame-Menselijk-Belang"
-    ],
-    "score": 6,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A03392",
-    "clip_start_seconds": 281.8,
-    "clip_duration_seconds": 18.0,
-    "bestand": "078d46e4-41ef-4d9a-839d-c5344fd7b384.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-02-10/zorg-gezondheid/thorbeckezaal/vrouwengezondheid-18-00/video"
-  },
-  {
-    "debatdirect_id": "8c82ce8d-d10b-4fb8-9168-abc94f885108",
-    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-06-02/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-06-02T17%3A16%3A38%2B0200&end=2026-06-02T18%3A32%3A27%2B0200",
-    "published_at": "2026-06-02T17:24:40",
+    "debatdirect_id": "d686b633-cedd-4d90-9e56-c395d8f733cd",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-05-13/groenvanprinstererzaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-05-13T16%3A20%3A09%2B0200&end=2026-05-13T21%3A51%3A12%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-05-13/immigratie-integratie/groen-van-prinstererzaal/vreemdelingen-en-asielbeleid-14-30/video",
+    "published_at": "2026-05-13T17:05:53",
     "topic_slug": "asiel",
     "topic_name": "Asiel en migratie",
-    "spreker": "Lisa Westerveld",
-    "partij": "GroenLinks-PvdA",
-    "citaat": "Niet om ze te sturen naar een land waar ze geen enkele binding mee hebben, in een zogenaamde terugkeerhub. Dat is een heel vriendelijk woord, maar mensen worden daar gewoon opgesloten. In deze motie staat dat dat in strijd is met het Kinderrechtenverdrag. Eigenlijk vinden we dat niemand in een terugkeerhub hoort, maar al helemaal geen gezinnen met kinderen.",
+    "spreker": "Stephan van Baarle",
+    "partij": "DENK",
+    "citaat": "Die giftige politiek van partijen als de PVV, Markuszower, Keijzer en anderen hitst de boel op en zet ons land in de fik. Ik zeg tegen al die partijen: kap hiermee! Vluchtelingen worden hier het slachtoffer van. Ons hele land wordt erdoor opgehitst. Lokale bestuurders zijn er ook het slachtoffer van.",
     "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Conflict",
       "Frame-Menselijk-Belang",
       "Frame-Moraliteit"
     ],
-    "score": 6,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04361",
-    "clip_start_seconds": 480.5,
+    "score": 10,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02615",
+    "clip_start_seconds": 2872.42,
     "clip_duration_seconds": 18.0,
-    "bestand": "8c82ce8d-d10b-4fb8-9168-abc94f885108.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-06-02/migratie-en-integratie/plenaire-zaal/jbz-raad-asiel-en-migratie-17-10/video"
+    "bestand": "d686b633-cedd-4d90-9e56-c395d8f733cd.mp4"
+  },
+  {
+    "debatdirect_id": "c1663929-7543-40ca-9778-a2b7b75bc38e",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-07-01/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-07-01T13%3A35%3A26%2B0200&end=2026-07-02T01%3A14%3A54%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-07-01/landbouw/plenaire-zaal/samenhangende-aanpak-landbouw-natuur-en-stikstof-13-30/video",
+    "published_at": "2026-07-01T13:53:23",
+    "topic_slug": "stikstof",
+    "topic_name": "Stikstof",
+    "spreker": "Caroline van der Plas",
+    "partij": "BBB",
+    "citaat": "over de ruggen van deze mensen en hun gezinnen wordt hier gewoon een politiek spel gespeeld om je eigen dingetjes te kunnen binnenhalen. Het is emotieloos. Ik heb er zelf — ik ben er heel geëmotioneerd over — over gezegd: dan heb je geen ziel, als je dat doet. Deze mensen hun toekomst, inclusief die van hun kinderen, staat gewoon op het spel.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
+    ],
+    "score": 9,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02765",
+    "clip_start_seconds": 1115.86,
+    "clip_duration_seconds": 18.0,
+    "bestand": "c1663929-7543-40ca-9778-a2b7b75bc38e.mp4"
+  },
+  {
+    "debatdirect_id": "6e51e9c1-2042-4c97-843f-f19f58988239",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-06-11/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-06-11T10%3A01%3A50%2B0200&end=2026-06-11T13%3A27%3A30%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-06-11/immigratie-integratie/wttewaall-van-stoetwegenzaal/vreemdelingen-en-asielbeleid-10-00/video",
+    "published_at": "2026-06-11T10:36:58",
+    "topic_slug": "asiel",
+    "topic_name": "Asiel en migratie",
+    "spreker": "Robert van Asten",
+    "partij": "D66",
+    "citaat": "Als je de vluchtelingenverhalen daadwerkelijk kent, als je daadwerkelijk eens de moeite zou nemen om eens naar een azc te gaan om daar de verhalen van vluchtelingen te horen, van statushouders, die hierheen zijn gekomen en de meest verschrikkelijke dingen hebben meegemaakt … En dan hier een beetje met cijfertjes gaan lopen strooien en het maar \"nepvluchtelingen\" noemen: dat is ook iets wat we hier als Tweede Kamer vooral níet zouden moeten doen. Want dit sijpelt langzaam de samenleving in, waardoor iedereen dadelijk denkt: o, die vluchtelingen krijgen alles gratis, die hebben niks meegemaakt en die komen hier maar een beetje voor de gein en crimineel gedrag vertonen. Dat is waanzinnig schadelijk, en dat weet de heer Markuszower.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
+    ],
+    "score": 9,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01919",
+    "clip_start_seconds": 2111.28,
+    "clip_duration_seconds": 18.0,
+    "bestand": "6e51e9c1-2042-4c97-843f-f19f58988239.mp4"
   },
   {
     "debatdirect_id": "31b012b3-936e-41ff-b3f4-9f1202abeb3d",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-04-22/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-04-22T11%3A20%3A03%2B0200&end=2026-04-22T14%3A10%3A02%2B0200",
-    "published_at": "2026-04-22T13:05:20",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-22/economie/plenaire-zaal/maatregelen-van-het-kabinet-inzake-de-hoge-energie-en-brandstofprijzen-11-10/video",
+    "published_at": "2026-04-22T12:36:23",
     "topic_slug": "energietransitie",
     "topic_name": "Energietransitie",
-    "spreker": "Geert Wilders",
-    "partij": "PVV",
-    "citaat": "Er zit een nieuw kabinet. De eerste economische crisis doet zich voor en ze duiken gewoon weg met allemaal rotsmoezen en een flutpakket van nog geen 1 miljard, terwijl iedere dag opnieuw de miljarden naar Oekraïne en de miljarden naar Afrika via ontwikkelingshulp gewoon wegvliegen. U neemt gewoon uw verantwoordelijkheid niet. U laat uw mensen in de steek. U komt met allemaal kulverhalen over waarom het niet kan. Het kan. Wij kunnen nu, zonder Oekraïne in de kou te zetten, in plaats van 9 miljard 6 miljard geven. We kunnen nu, zonder Afrika in de kou te zetten, in plaats van 6 miljard 4 miljard geven. Dan hebben we 5 miljard. Dan kunnen we nu de mensen helpen aan de pomp. Dan kunnen we de ondernemers helpen die voor een deel die 2 cent zullen moeten gaan betalen die ze aan de werknemers geven.",
+    "spreker": "Gidi Markuszower",
+    "partij": "Groep Markuszower",
+    "citaat": "Diezelfde D66 heeft de VVD bij het onderhandelen over de coalitieakkoorden de duimschroeven aangedraaid door tientallen miljarden in klimaatonzinfondsen te stoppen: in stikstoffondsen en in SDE+-fondsen. Tientallen miljarden liggen daarin. Als ik de heer Brekelmans was geweest, was ik naar de heer Paternotte en naar de heer Jetten gegaan en had ik gezegd: \"Jongens, we moeten dat coalitieakkoord nu openbreken en minder aan die klimaatonzin geven, want dan hebben we tientallen miljarden extra te besteden. Een deel daarvan geven we terug aan de belastingbetaler en een deel gaat naar bijvoorbeeld een accijnsverlaging, zodat we de mensen die moeite hebben, die pijn hebben aan de pomp, die pijn hebben in de supermarkt, echt kunnen helpen.\"",
     "tags": [
       "Debatzet-Gevoelens-Verwoorden",
-      "Frame-Conflict"
+      "Frame-Conflict",
+      "Frame-Menselijk-Belang"
     ],
-    "score": 6,
+    "score": 9,
     "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02996",
-    "clip_start_seconds": 6317.12,
+    "clip_start_seconds": 4595.62,
     "clip_duration_seconds": 18.0,
-    "bestand": "31b012b3-936e-41ff-b3f4-9f1202abeb3d.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-22/economie/plenaire-zaal/maatregelen-van-het-kabinet-inzake-de-hoge-energie-en-brandstofprijzen-11-10/video"
+    "bestand": "31b012b3-936e-41ff-b3f4-9f1202abeb3d.mp4"
   },
   {
-    "debatdirect_id": "8b1ca931-9b61-4938-895e-346aaa814296",
-    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-07-02/thorbeckezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-07-02T10%3A03%3A40%2B0200&end=2026-07-02T15%3A49%3A55%2B0200",
-    "published_at": "2026-07-02T15:32:34",
-    "topic_slug": "energietransitie",
-    "topic_name": "Energietransitie",
-    "spreker": "Jimmy Dijk",
-    "partij": "SP",
-    "citaat": "Het is heel goed dat de VVD zei dat het in de ontwikkelfase zit. Dat zitten ze namelijk al vanaf 1955. Ik vind het dus supergoed dat u heeft bevestigd dat dit soort dingen sinds 1955 in de ontwikkelfase zitten. Het is net zoals de tabaksindustrie. Ook kernenergie heeft een ontzettend sterke lobby met dit soort fabels.",
+    "debatdirect_id": "c6d85e95-a1ed-4ccf-8b9d-373d0c5722f2",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-07-01/thorbeckezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-07-01T16%3A03%3A34%2B0200&end=2026-07-01T18%3A33%3A54%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-07-01/internationaal/thorbeckezaal/navo-top-16-00/video",
+    "published_at": "2026-07-01T16:20:41",
+    "topic_slug": "oekraine",
+    "topic_name": "Oekraïne",
+    "spreker": "Pepijn van Houwelingen",
+    "partij": "FVD",
+    "citaat": "De Amerikanen hebben gezegd: we willen via Oekraïne Rusland onder druk zetten. Het grote slachtoffer is Oekraïne. Ik vind het dan ook oprecht het allerergste voor Oekraïne zelf. Dat land wordt opgeofferd op dat altaar.",
     "tags": [
       "Debatzet-Gevoelens-Verwoorden",
-      "Frame-Conflict"
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
     ],
-    "score": 6,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04059",
-    "clip_start_seconds": 19732.5,
+    "score": 9,
+    "tweedekamer_activiteit_url": null,
+    "clip_start_seconds": 1093.82,
+    "clip_duration_seconds": 9.88,
+    "bestand": "c6d85e95-a1ed-4ccf-8b9d-373d0c5722f2.mp4"
+  },
+  {
+    "debatdirect_id": "c5de4522-1269-456c-aaaf-49f40bc56c06",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-04-22/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-04-22T14%3A11%3A40%2B0200&end=2026-04-22T20%3A42%3A25%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-22/economie/plenaire-zaal/maatregelen-van-het-kabinet-inzake-de-hoge-energie-en-brandstofprijzen-13-35/video",
+    "published_at": "2026-04-22T14:50:34",
+    "topic_slug": "energietransitie",
+    "topic_name": "Energietransitie",
+    "spreker": "Mona Keijzer",
+    "partij": "Lid Keijzer",
+    "citaat": "En dat dan alleen als je hoge energielasten hebt. Ook dat helpt weer maar een heel klein gedeelte van de burgers. Zeg nou gewoon wat iedereen in dit land ziet, namelijk dat een groot gedeelte van dit pakket, zo niet het meeste, kleine clubjes mensen helpt, maar niet de Nederlander in het algemeen en zeker niet de Nederlander die gewoon aangewezen is op zijn benzineauto. Waar je zaken zoals dat noodfonds doet, loop je ook uiteindelijk vast in de uitvoering, want dat is eerder gebleken. Zeg het nou gewoon eerlijk in plaats van elke keer net te doen alsof je iets fantastisch doet, terwijl de gemiddelde Nederlander afhaakt en denkt: het zal wel weer; uiteindelijk geldt het niet voor mij.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang"
+    ],
+    "score": 8,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02996",
+    "clip_start_seconds": 2332.5,
     "clip_duration_seconds": 18.0,
-    "bestand": "8b1ca931-9b61-4938-895e-346aaa814296.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-07-02/klimaat/thorbeckezaal/kernenergie-10-00/video"
+    "bestand": "c5de4522-1269-456c-aaaf-49f40bc56c06.mp4"
   },
   {
     "debatdirect_id": "dba42d38-7e8b-4c06-973a-43d5f4992cfb",
     "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-04-15/troelstrazaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-04-15T15%3A30%3A51%2B0200&end=2026-04-15T18%3A13%3A13%2B0200",
-    "published_at": "2026-04-15T16:21:06",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-15/klimaat/troelstrazaal/hernieuwbare-energie-15-30/video",
+    "published_at": "2026-04-15T16:16:46",
     "topic_slug": "energietransitie",
     "topic_name": "Energietransitie",
     "spreker": "Lidewij de Vos",
     "partij": "FVD",
-    "citaat": "Er is inderdaad ook een ontwikkeling gaande in de ledverlichtingswereld, maar het blijft staan dat ledlicht overal het algemeen meer blauw licht bevat. Je ziet het hier ook in de ruimtes. Volgens mij zijn er heel veel mensen die daar ook last van hebben. Je ervaart wel degelijk dat het een bepaalde invloed op je heeft als dat blauwe licht meer aanwezig is. Ik denk dat het heel relevant is om op het moment dat je iedereen gaat verplichten om de verlichting aan te passen, in huis maar ook in de werkruimte, heel goed onderzoek te doen naar klachten die dat kan opleveren.",
-    "tags": [
-      "Frame-Menselijk-Belang"
-    ],
-    "score": 5,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02307",
-    "clip_start_seconds": 3016.46,
-    "clip_duration_seconds": 18.0,
-    "bestand": "dba42d38-7e8b-4c06-973a-43d5f4992cfb.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-15/klimaat/troelstrazaal/hernieuwbare-energie-15-30/video"
-  },
-  {
-    "debatdirect_id": "e93ab119-0ff3-46a5-83f5-2bc6da0a81c7",
-    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-04-01/groenvanprinstererzaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-04-01T13%3A02%3A34%2B0200&end=2026-04-01T17%3A18%3A50%2B0200",
-    "published_at": "2026-04-01T14:14:31",
-    "topic_slug": "abortus",
-    "topic_name": "Abortus",
-    "spreker": "Gideon van Meijeren",
-    "partij": "FVD",
-    "citaat": "we zouden het toch met elkaar eens moeten zijn dat de wet zoals die op dit moment luidt in ieder geval gehandhaafd moet worden en dat criminele abortuscowboys die alle regels aan hun laars lappen keihard moeten worden aangepakt? Want wettelijke bepalingen die gericht zijn op het beschermen van het ongeboren menselijk leven mogen niet verworden tot een dode letter.",
+    "citaat": "Daarbij worden bedrijven ook verplicht om over te stappen naar ledverlichting, met als doel 100% ledverlichting in 2030 en een totale uitbanning van de gloeilamp. Ledlampen zijn dan wellicht iets goedkoper omdat ze zuiniger zijn, maar er kleven ook verborgen kosten aan. Volgens de Gezondheidsraad heeft ledverlichting een verstorende invloed op de biologische klok, wat zorgt voor een slechtere nachtrust, verminderde aandacht en een grotere kans op ongevallen, om nog niet eens te spreken van de killere sfeer die deze lampen in een ruimte brengen. Dat zit zo. In het spectrum van een ledlamp is blauw licht sterker aanwezig dan in natuurlijk licht zoals dat van een gloeilamp. Dat blauwe licht verstoort de biologische klok van de mens. Op lange termijn bestaat mogelijk zelfs een verhoogd risico op kanker, obesitas, hart- en vaatziekten en psychische aandoeningen.",
     "tags": [
       "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang"
+    ],
+    "score": 8,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02307",
+    "clip_start_seconds": 2753.5,
+    "clip_duration_seconds": 18.0,
+    "bestand": "dba42d38-7e8b-4c06-973a-43d5f4992cfb.mp4"
+  },
+  {
+    "debatdirect_id": "f97cc12b-0165-4195-9775-1a85e70b2b4c",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-06-17/plenairezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-06-17T16%3A29%3A05%2B0200&end=2026-06-17T17%3A17%3A49%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-06-17/migratie-en-integratie/plenaire-zaal/tweeminutendebat-vreemdelingen-en-asielbeleid-cd-13-5-15-45/video",
+    "published_at": "2026-06-17T16:29:22",
+    "topic_slug": "asiel",
+    "topic_name": "Asiel en migratie",
+    "spreker": "Lisa Westerveld",
+    "partij": "PRO",
+    "citaat": "Sinds de gewelddadige protesten in verschillende gemeenten worden mensen — dan heb ik het over asielzoekers, maar ook vrijwilligers en raadsleden — gevolgd, gefilmd en geïntimideerd. Ze worden onterecht beschuldigd. Er worden ook foto's en filmpjes verspreid van mensen, met allerlei suggestieve aannames, simpelweg op basis van hun huidskleur. Dat is gewoon keihard racisme.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
       "Frame-Moraliteit"
     ],
-    "score": 4,
-    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2024A08053",
-    "clip_start_seconds": 4527.34,
+    "score": 7,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03937",
+    "clip_start_seconds": 20.08,
     "clip_duration_seconds": 18.0,
-    "bestand": "e93ab119-0ff3-46a5-83f5-2bc6da0a81c7.mp4",
-    "video_url": "https://debatdirect.tweedekamer.nl/2026-04-01/zorg-gezondheid/groen-van-prinstererzaal/eerstelijnszorg-13-00/video"
+    "bestand": "f97cc12b-0165-4195-9775-1a85e70b2b4c.mp4"
+  },
+  {
+    "debatdirect_id": "8b1ca931-9b61-4938-895e-346aaa814296",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-07-02/thorbeckezaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-07-02T10%3A03%3A40%2B0200&end=2026-07-02T15%3A49%3A55%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-07-02/klimaat/thorbeckezaal/kernenergie-10-00/video",
+    "published_at": "2026-07-02T11:07:24",
+    "topic_slug": "energietransitie",
+    "topic_name": "Energietransitie",
+    "spreker": "Henk Vermeer",
+    "partij": "BBB",
+    "citaat": "Voorzitter. Het is al eerder gezegd. De Kamer heeft duidelijk gezegd: wij willen kernenergie in industriegebieden. Toch gaat het nu opeens over de Elisabethpolder, de Paulinapolder en de Emmapolder; dat zijn allemaal landbouwgebieden met zeer vruchtbare landbouwgrond. Het is ongekend dat die nu toch weer als optie gegeven worden, ook omdat sommige van die boeren al eerder verplaatst zijn, bijvoorbeeld vanuit Brabant om plaats te maken voor de natuur, en nu dit weer voor de kiezen krijgen.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Conflict",
+      "Frame-Menselijk-Belang"
+    ],
+    "score": 7,
+    "tweedekamer_activiteit_url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04059",
+    "clip_start_seconds": 3902.1,
+    "clip_duration_seconds": 18.0,
+    "bestand": "8b1ca931-9b61-4938-895e-346aaa814296.mp4"
+  },
+  {
+    "debatdirect_id": "ea8a96b1-5f44-4232-9822-e1d9cdd24a7d",
+    "raw_video_url": "https://livestreaming.b67v2.tweedekamer.nl/2026-06-03/alettajacobszaal/index.m3u8?hd=1&subtitles=vod&keyframes=1&start=2026-06-03T14%3A00%3A08%2B0200&end=2026-06-03T16%3A27%3A47%2B0200",
+    "video_url": "https://debatdirect.tweedekamer.nl/2026-06-03/internationaal/aletta-jacobszaal/oekraine-14-00/video",
+    "published_at": "2026-06-03T14:48:26",
+    "topic_slug": "oekraine",
+    "topic_name": "Oekraïne",
+    "spreker": "Nicole Maes",
+    "partij": "VVD",
+    "citaat": "Regelmatig vraag ik mij af hoe gehavend de Oekraïners uit de strijd tevoorschijn zullen komen. Een paar weken geleden ontvingen wij hier een meneer die negen maanden lang krijgsgevangene is geweest; mevrouw Van der Werf verwees er al naar. Hij kwam daar zwaargehavend en sterk vermagerd uit. Hij was dan ook nog een van de gelukkigen die het wél heeft overleefd. Vorige week hoorde ik het verhaal van een Oekraïense vrouw die al jaren woonachtig is in de EU en had besloten psychologie te gaan studeren om na de oorlog mensen zoals Oleksiy — zo heet hij — te helpen er mentaal weer bovenop te komen. Een ontroerend verhaal waarvan ik zeker weet dat er meer zijn. Wat mijn fractie betreft is dat een reden temeer om Oekraïne te steunen tot het bittere eind.",
+    "tags": [
+      "Debatzet-Gevoelens-Verwoorden",
+      "Frame-Menselijk-Belang",
+      "Frame-Moraliteit"
+    ],
+    "score": 7,
+    "tweedekamer_activiteit_url": null,
+    "clip_start_seconds": 3095.4,
+    "clip_duration_seconds": 18.0,
+    "bestand": "ea8a96b1-5f44-4232-9822-e1d9cdd24a7d.mp4"
   }
 ]
