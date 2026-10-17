@@ -1,1 +1,1 @@
-{"party":"Groep Markuszower","turns":1525,"gaps":[{"level":1,"id":36,"name":"Internationale handel","parentName":null,"observed":2,"expected":10.09,"ratio":0.19821605550049554}],"focus":[],"lower":[],"higher":[]}
+{"party":"Groep Markuszower","turns":1928,"gaps":[{"level":1,"id":11,"name":"Oekraïne-steun","parentName":"Defensie en Oekraïne","observed":10,"expected":40.85,"ratio":0.24479804161566707},{"level":1,"id":32,"name":"Handelsbeleid","parentName":"Defensie en Oekraïne","observed":1,"expected":11.76,"ratio":0.08503401360544217}],"focus":[],"lower":[],"higher":[]}

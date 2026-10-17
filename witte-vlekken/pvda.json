@@ -1,1 +1,1 @@
-{"party":"PvdA","turns":28797,"gaps":[{"level":1,"id":61,"name":"Veehouderij","parentName":"Dierenwelzijn","observed":20,"expected":81.54,"ratio":0.2452783909737552}],"focus":[],"lower":[],"higher":[]}
+{"party":"PvdA","turns":28539,"gaps":[{"level":0,"id":23,"name":"Chemische veiligheid","parentName":null,"observed":63,"expected":260.02,"ratio":0.24228905468810094},{"level":1,"id":31,"name":"Stoffenbeheersing","parentName":"Chemische veiligheid","observed":37,"expected":193.08,"ratio":0.19163041226434638}],"focus":[],"lower":[],"higher":[]}
