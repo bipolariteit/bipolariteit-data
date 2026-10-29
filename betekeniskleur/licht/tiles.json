@@ -1,0 +1,16 @@
+{
+  "scheme": "xyz",
+  "theme": "light",
+  "tile_size": 512,
+  "minzoom": 0,
+  "maxzoom": 5,
+  "bounds_3857": [
+    -6184416.155181864,
+    -4200458.333978155,
+    6184416.155181864,
+    4200458.333978155
+  ],
+  "source": "plenair-map-full-density.tif",
+  "source_sha256": "dc67347eddbab935b39644c86a6bf60465bca75a62a6dea1775c7c9bf36ad147",
+  "tiles": 71
+}
